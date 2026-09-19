@@ -1,0 +1,6 @@
+"./Src/STM32f446re_GPIO.o"
+"./Src/STM32f446re_SPI_driver.o"
+"./Src/spi_senddata.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f446retx.o"
