@@ -2,7 +2,7 @@
  * spi_senddata.c
  *
  *  Created on: Sep 17, 2026
- *      Author: User
+ *      Author: Shams-E-Sheefat Nabid
  */
 
 #include <stdint.h>
