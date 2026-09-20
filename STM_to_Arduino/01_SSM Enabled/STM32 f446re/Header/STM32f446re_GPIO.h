@@ -2,7 +2,7 @@
  * STM32f446re_GPIO.h
  *
  *  Created on: May 14, 2026
- *      Author: User
+ *      Author: Shams-E-Sheefat Nabid
  */
 #include "STM32_f446re.h"
 

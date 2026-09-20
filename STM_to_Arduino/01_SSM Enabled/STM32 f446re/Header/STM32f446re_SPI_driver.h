@@ -2,7 +2,7 @@
  * SPI.h
  *
  *  Created on: May 9, 2026
- *      Author: User
+ *      Author: Shams-E-Sheefat Nabid
  */
 #include "STM32_f446re.h"
 

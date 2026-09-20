@@ -2,7 +2,7 @@
  * STM32_f446re.h
  *
  *  Created on: May 9, 2026
- *      Author: User
+ *      Author: Shams-E-Sheefat Nabid
  */
 #include <stdint.h>
 #include <stdio.h>
